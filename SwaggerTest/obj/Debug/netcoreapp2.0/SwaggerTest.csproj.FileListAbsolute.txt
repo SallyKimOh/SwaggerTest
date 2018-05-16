@@ -1,0 +1,10 @@
+/Users/sallykim/Projects/SwaggerTest/SwaggerTest/bin/Debug/netcoreapp2.0/SwaggerTest.deps.json
+/Users/sallykim/Projects/SwaggerTest/SwaggerTest/bin/Debug/netcoreapp2.0/SwaggerTest.runtimeconfig.json
+/Users/sallykim/Projects/SwaggerTest/SwaggerTest/bin/Debug/netcoreapp2.0/SwaggerTest.runtimeconfig.dev.json
+/Users/sallykim/Projects/SwaggerTest/SwaggerTest/bin/Debug/netcoreapp2.0/SwaggerTest.dll
+/Users/sallykim/Projects/SwaggerTest/SwaggerTest/bin/Debug/netcoreapp2.0/SwaggerTest.pdb
+/Users/sallykim/Projects/SwaggerTest/SwaggerTest/obj/Debug/netcoreapp2.0/SwaggerTest.csproj.CoreCompileInputs.cache
+/Users/sallykim/Projects/SwaggerTest/SwaggerTest/obj/Debug/netcoreapp2.0/SwaggerTest.AssemblyInfoInputs.cache
+/Users/sallykim/Projects/SwaggerTest/SwaggerTest/obj/Debug/netcoreapp2.0/SwaggerTest.AssemblyInfo.cs
+/Users/sallykim/Projects/SwaggerTest/SwaggerTest/obj/Debug/netcoreapp2.0/SwaggerTest.dll
+/Users/sallykim/Projects/SwaggerTest/SwaggerTest/obj/Debug/netcoreapp2.0/SwaggerTest.pdb
